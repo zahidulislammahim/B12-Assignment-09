@@ -1,0 +1,302 @@
+[
+  {
+    "id": "1",
+    "title": "Player Unknown's Battle Ground: PUBG",
+    "coverPhoto": "https://cdn1.epicgames.com/spt-assets/53ec4985296b4facbe3a8d8d019afba9/pubg-battlegrounds-19vwb.jpg?w=400",
+    "category": "FPS",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.tencent.ig&pcampaignid=web_share",
+    "description": "PUBG Mobile is a free-to-play battle royale video game developed by LightSpeed & Power Studio, a division of Tencent Games. It is a mobile version of PlayerUnknown's Battlegrounds, designed for touchscreen devices. The game pits up to 100 players against each other in a struggle for survival where players scavenge for weapons, vehicles, and supplies to be the last person standing. With multiple maps including Erangel, Miramar, Sanhok, and Vikendi, each offering unique terrain and challenges. Regular updates introduce new game modes, weapons, and seasonal events. The game features both third-person and first-person perspectives, squad play with voice chat, and extensive customization options for characters and weapons.",
+    "ratings": "4.5",
+    "developer": "Krafton"
+  },
+  {
+    "id": "2",
+    "title": "Call of Duty: Mobile",
+    "coverPhoto": "https://cdn.prod.website-files.com/65956e2711516206d2d1258f/6634c7715af10f24b00dc7b1_CODM%202663x1384.webp?w=400",
+    "category": "FPS",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.activision.callofduty.shooter&pcampaignid=web_share",
+    "description": "Call of Duty: Mobile brings together the classic multiplayer modes, iconic maps, and characters from the Call of Duty franchise into a mobile-optimized experience. The game features multiple modes including Team Deathmatch, Search and Destroy, and the popular 100-player Battle Royale. With regular content updates, new seasons, and collaboration events, the game keeps the experience fresh. Players can customize their loadouts with various weapons, attachments, and scorestreaks. The graphics are optimized for mobile devices while maintaining the fast-paced action the series is known for. Social features include clans, friend systems, and competitive ranked matches for esports enthusiasts.",
+    "ratings": "4.6",
+    "developer": "Activision"
+  },
+  {
+    "id": "3",
+    "title": "Genshin Impact",
+    "coverPhoto": "https://i0.wp.com/cosplay.ph/wp-content/uploads/2023/08/ad5a19d3870e9597ffd9c82998fd01fe_8246049044075884850.jpg?fit=640%2C400&ssl=1?w=400",
+    "category": "RPG",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact&pcampaignid=web_share",
+    "description": "Genshin Impact is an open-world action RPG that features a massive, gorgeous map, an elaborate elemental combat system, engaging storyline, and diverse characters. Set in the fantasy world of Teyvat, players take on the role of the Traveler who searches for their lost sibling and uncovers the world's secrets. The game features gacha mechanics for obtaining new characters, real-time combat with elemental reactions, and extensive exploration. With regular major updates every six weeks, the game continues to expand with new regions, characters, and story quests. The cross-save functionality allows players to continue their adventure across multiple platforms including PC, PlayStation, and mobile.",
+    "ratings": "4.6",
+    "developer": "miHoYo"
+  },
+  {
+    "id": "4",
+    "title": "Clash of Clans",
+    "coverPhoto": "https://catholicgamereviews.com/wp-content/uploads/2021/11/CoCloading.jpg?w=400",
+    "category": "Strategy",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.supercell.clashofclans&pcampaignid=web_share",
+    "description": "Clash of Clans is a classic mobile strategy game where players build their village, train troops, and attack other players to earn resources and trophies. The game features base building, resource management, and real-time strategy combat. Players can join clans to participate in Clan Wars, Clan Games, and other social features. With regular updates introducing new troops, defenses, and quality-of-life improvements, the game has maintained its popularity for years. The art style is colorful and cartoonish, appealing to a wide audience. Strategic depth comes from base design, attack planning, and resource allocation decisions that players must make throughout their progression.",
+    "ratings": "4.6",
+    "developer": "Supercell"
+  },
+  {
+    "id": "5",
+    "title": "Among Us",
+    "coverPhoto": "https://cdn.mos.cms.futurecdn.net/Zwm8N3uf4HLs42TsFHoYKV-1200-80.jpg?w=400",
+    "category": "Social",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia&pcampaignid=web_share",
+    "description": "Among Us is a multiplayer social deduction game set in a space-themed setting where players take on one of two roles: Crewmates or Impostors. Crewmates must complete tasks around the map and identify the Impostors, while Impostors must sabotage the ship and eliminate Crewmates without being caught. The game gained massive popularity during the COVID-19 pandemic due to its simple yet engaging gameplay that works well for online social gatherings. With customizable game settings, multiple maps, and cross-platform play, Among Us has become a cultural phenomenon. The game encourages communication, deduction, and sometimes deception as players discuss and vote on who they believe the Impostors are during emergency meetings.",
+    "ratings": "4.3",
+    "developer": "InnerSloth"
+  },
+  {
+    "id": "6",
+    "title": "Minecraft",
+    "coverPhoto": "https://img.redbull.com/images/c_crop,w_2640,h_1320,x_190,y_0/c_auto,w_1200,h_630/f_auto,q_auto/redbullcom/2025/8/11/dcusojkfgapu4zxe3gtb/minecraft-landscape?w=400",
+    "category": "Sandbox",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.tellurionmobile.realmcraft&pcampaignid=web_share",
+    "description": "Minecraft is a sandbox construction game that allows players to build with a variety of different blocks in a 3D procedurally generated world. The game features multiple modes including Survival mode where players must acquire resources and maintain health, Creative mode with unlimited resources and flight, and Adventure mode for custom maps. The mobile version brings the full Minecraft experience to touchscreen devices with optimized controls and cross-play compatibility with other platforms. Regular updates add new biomes, mobs, blocks, and gameplay features. The game's open-ended nature encourages creativity, exploration, and problem-solving, making it appealing to players of all ages. Community-created mods and servers further extend the gameplay possibilities.",
+    "ratings": "4.7",
+    "developer": "Mojang"
+  },
+  {
+    "id": "7",
+    "title": "Pokémon GO",
+    "coverPhoto": "https://lh3.googleusercontent.com/u0VmmFxdNgE75u4ES6mxNQKiS5v-flZ0D9e3oSeVQd8wLupTKGS3XCRkym7t2hLwnxEHJj_mFHK2Opze0EBmS6bWdnJ8Q5KRdH8=s0-e365?w=400",
+    "category": "AR",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo&pcampaignid=web_share",
+    "description": "Pokémon GO is an augmented reality mobile game that uses GPS to map players' real-world location to the game world. Players can discover and catch Pokémon in various locations, battle at Gyms, and join Raids with other players. The game encourages physical activity and exploration as players must walk to different locations to find different Pokémon species. Regular events, Community Days, and seasonal updates keep the game fresh and engaging. Social features include Friends lists, Trading, and PvP battles. The game has been praised for promoting exercise and social interaction while bringing the beloved Pokémon franchise to life in a novel way that blends digital and physical worlds seamlessly.",
+    "ratings": "4.3",
+    "developer": "Niantic"
+  },
+  {
+    "id": "8",
+    "title": "Clash Royale",
+    "coverPhoto": "https://img.redbull.com/images/c_crop,w_1920,h_960,x_0,y_0/c_auto,w_1200,h_600/f_auto,q_auto/redbullcom/2020/3/13/hk3rfkvmjl4zx1d9wbze/clash-royale-season-9-meta?w=400",
+    "category": "Strategy",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.supercell.clashroyale&pcampaignid=web_share",
+    "description": "Clash Royale is a real-time strategy game that combines elements of collectible card games, tower defense, and multiplayer online battle arenas. Players collect cards featuring characters and spells from the Clash Universe and use them to destroy opponents' towers while defending their own. The game features 1v1 and 2v2 battles, tournaments, and special challenge modes. With regular balance updates, new cards, and seasonal content, the game maintains a competitive ecosystem. The progression system includes leveling up cards, earning chests, and climbing the ranked ladder. Strategic depth comes from deck building, elixir management, and anticipating opponent moves during fast-paced three-minute matches.",
+    "ratings": "4.5",
+    "developer": "Supercell"
+  },
+  {
+    "id": "9",
+    "title": "Subway Surfers",
+    "coverPhoto": "https://i.ytimg.com/vi/-IPK_hc2cEA/hq720.jpg?w=400",
+    "category": "Arcade",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&pcampaignid=web_share",
+    "description": "Subway Surfers is an endless runner mobile game where players take the role of teenage graffiti artists running along subway tracks to escape from the inspector and his dog. The game features simple swipe controls to dodge obstacles, jump over barriers, and slide under obstacles while collecting coins and power-ups. With regular world tours that introduce new characters, boards, and locations based on different cities around the world, the game stays fresh and engaging. The colorful graphics, smooth gameplay, and satisfying progression system have made it one of the most downloaded mobile games of all time. Mission systems, daily challenges, and special events provide additional goals beyond the high score chase.",
+    "ratings": "4.4",
+    "developer": "SYBO Games"
+  },
+  {
+    "id": "10",
+    "title": "Candy Crush Saga",
+    "coverPhoto": "https://cdn.mos.cms.futurecdn.net/ab5ef13731ee6ab160794f7f2c8157c9-1200-80.jpg?w=400",
+    "category": "Puzzle",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga&pcampaignid=web_share",
+    "description": "Candy Crush Saga is a match-three puzzle game that has become one of the most successful mobile games in history. Players complete levels by swapping colored pieces on a game board to make matches of three or more of the same color, with various level objectives including reaching a certain score, collecting specific items, or clearing jelly. The game features thousands of levels with increasing difficulty, special candies with powerful effects, and various obstacles that create challenging puzzles. Social features allow players to connect with friends, see their progress, and send lives. Regular updates introduce new levels, special events, and gameplay mechanics that keep players engaged for years.",
+    "ratings": "4.5",
+    "developer": "King"
+  },
+  {
+    "id": "11",
+    "title": "Roblox",
+    "coverPhoto": "https://media.wired.com/photos/64fa35ee93a336d16731ae1e/3:2/w_2560%2Cc_limit/Roblox-Gadget-Lab-Gear.jpg?w=400",
+    "category": "Sandbox",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.roblox.client&pcampaignid=web_share",
+    "description": "Roblox is not just a game but a platform where users can create and play millions of experiences created by other users. The platform features a wide variety of genres from obstacle courses and role-playing games to simulations and competitive shooters. Players can customize their avatar with a vast catalog of items, socialize with friends, and even learn basic coding and game development through Roblox Studio. The economy allows creators to earn real money from their games through the Robux virtual currency. With cross-platform support, players can enjoy the same experiences on mobile, PC, and consoles. The platform's emphasis on user-generated content and creativity has made it particularly popular among younger audiences.",
+    "ratings": "4.4",
+    "developer": "Roblox Corporation"
+  },
+  {
+    "id": "12",
+    "title": "Brawl Stars",
+    "coverPhoto": "https://supercell.com/images/b524ca49e8549e5d3f5485452da7f26c/1050/cropped.webp?w=400",
+    "category": "Action",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars&pcampaignid=web_share",
+    "description": "Brawl Stars is a fast-paced multiplayer battle game featuring a variety of game modes, unique characters called Brawlers, and short three-minute matches. Players can choose from dozens of Brawlers, each with their own unique attacks and super abilities. Game modes include Gem Grab, Showdown (battle royale), Brawl Ball (soccer with combat), Heist, Bounty, and special event modes. The game features both casual and competitive ranked gameplay, regular content updates with new Brawlers, skins, and environments, and a social club system for teaming up with friends. The colorful graphics, accessible controls, and depth of strategy have made it one of Supercell's most successful titles.",
+    "ratings": "4.6",
+    "developer": "Supercell"
+  },
+  {
+    "id": "13",
+    "title": "Hearthstone",
+    "coverPhoto": "https://d39zum0jwvcigt.cloudfront.net/_next/static/images/default-4fff3c606c794dc03a915b9071f562d3.jpg?w=400",
+    "category": "Card",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.blizzard.wtcg.hearthstone&pcampaignid=web_share",
+    "description": "Hearthstone is a digital collectible card game set in the Warcraft universe. Players build decks from collected cards and take turns playing cards from their hand using mana crystals. The goal is to reduce the opponent's health to zero using minions, spells, and weapons. The game features multiple modes including Standard, Wild, Arena drafts, Battlegrounds (auto-battler), and Mercenaries (RPG mode). Regular expansion releases introduce new cards and mechanics, keeping the meta-game fresh and evolving. The game is praised for its polished presentation, satisfying sound design, and strategic depth despite simple basic rules. Free-to-play friendly aspects include daily quests, tavern brawls, and reward tracks that provide cards and resources.",
+    "ratings": "4.4",
+    "developer": "Blizzard Entertainment"
+  },
+  {
+    "id": "14",
+    "title": "Asphalt 9: Legends",
+    "coverPhoto": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000014952/70c58382cbf141504b8933e53befbb5a615d324c64fcb24f514c9ef28772a957?w=400",
+    "category": "Racing",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA9HM&pcampaignid=web_share",
+    "description": "Asphalt 9: Legends is an arcade racing game featuring high-quality graphics, licensed supercars, and intense racing action. The game includes both single-player career mode and multiplayer races with players from around the world. With over 50 cars from manufacturers like Ferrari, Porsche, Lamborghini, and Bugatti, players can collect, upgrade, and customize their dream garage. The intuitive TouchDrive control scheme simplifies steering while maintaining strategic depth through nitro management and perfect timing. Multiple game modes include classic races, time attacks, knockdown races, and special events. Regular updates introduce new cars, tracks, and seasonal content. The game showcases the graphical capabilities of modern mobile devices with detailed car models, dynamic weather effects, and realistic environments.",
+    "ratings": "4.5",
+    "developer": "Gameloft"
+  },
+  {
+    "id": "15",
+    "title": "8 Ball Pool",
+    "coverPhoto": "https://m.media-amazon.com/images/I/9166C52KbmL.png?w=400",
+    "category": "Sports",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool&pcampaignid=web_share",
+    "description": "8 Ball Pool is the world's most popular pocket billiards game, allowing players to compete in 1v1 matches against opponents from around the world. The game features realistic physics, various cue sticks with different stats, and multiple locations with increasing stakes. Players can participate in tournaments, challenge friends, and climb the leaderboards. The progression system includes leveling up, earning coins, and unlocking new customization options for cues and tables. Social features include friends lists, gifting, and clubs for team play. Regular events and special challenges provide additional ways to earn rewards. The simple yet satisfying gameplay, competitive elements, and social features have maintained its popularity for years across multiple platforms.",
+    "ratings": "4.4",
+    "developer": "Miniclip"
+  },
+  {
+    "id": "16",
+    "title": "Mobile Legends: Bang Bang",
+    "coverPhoto": "https://cdn-www.bluestacks.com/bs-images/mobile-legends-bang-bang-logo-fight-2ia0z1qrfbimzsgi_f3ka.jpg?w=400",
+    "category": "MOBA",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.mobile.legends&pcampaignid=web_share",
+    "description": "Mobile Legends: Bang Bang is a mobile multiplayer online battle arena (MOBA) designed specifically for touchscreen devices. Matches feature 5v5 battles where players choose from a roster of heroes with unique abilities and roles (tank, assassin, mage, marksman, support, fighter). The objective is to destroy the enemy's base while defending your own, working together with teammates to secure objectives and win team fights. The game features optimized controls, shorter match times compared to PC MOBAs, and various modes including Classic, Ranked, Brawl, and special events. Regular updates introduce new heroes, skins, balance changes, and seasonal content. The game has a strong esports scene with international tournaments and professional leagues.",
+    "ratings": "4.2",
+    "developer": "Moonton"
+  },
+  {
+    "id": "17",
+    "title": "Honkai: Star Rail",
+    "coverPhoto": "https://webstatic.hoyoverse.com/upload/op-public/2023/09/14/3c862d085db721a5625b6e12649399bc_5096494079299377390.png?w=400",
+    "category": "RPG",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.HoYoverse.hkrpgoversea&pcampaignid=web_share",
+    "description": "Honkai: Star Rail is a space fantasy RPG that follows the journey of the Trailblazer who boards the Astral Express to travel across the universe. The game features turn-based combat, expansive worlds to explore, and a rich storyline with memorable characters. Unlike action RPGs, the combat system emphasizes strategic planning, elemental weaknesses, and skill point management. The game includes gacha mechanics for obtaining new characters, extensive character development systems, and various activities including simulated universe roguelike mode. With high-quality production values, cinematic storytelling, and regular content updates, the game has quickly become one of the most popular mobile RPGs. Cross-save functionality allows players to continue their adventure across mobile, PC, and other platforms.",
+    "ratings": "4.8",
+    "developer": "miHoYo"
+  },
+  {
+    "id": "18",
+    "title": "Plants vs. Zombies 2",
+    "coverPhoto": "https://i.ytimg.com/vi/0c_iMGs3ehY/maxresdefault.jpg?w=400",
+    "category": "Strategy",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.ea.game.pvz2_row&pcampaignid=web_share",
+    "description": "Plants vs. Zombies 2 is a tower defense game where players use various plants with unique abilities to prevent zombies from entering their house. The game features multiple worlds with different themes, each introducing new zombies and plants with mechanics tied to that environment. Players collect sun to place plants, strategically choosing the right combination to counter the approaching zombie waves. The game includes adventure mode, various mini-games, endless zones, and special events. Regular updates have added new plants, zombies, worlds, and gameplay mechanics over the years. The charming art style, humorous characters, and satisfying strategic gameplay have made it a beloved sequel that expands upon the original while maintaining its core appeal.",
+    "ratings": "4.4",
+    "developer": "Electronic Arts"
+  },
+  {
+    "id": "19",
+    "title": "FIFA Mobile",
+    "coverPhoto": "https://img.utdstc.com/screen/ff4/d95/ff4d95192929a36c5d6b1f1af7289ece08ee9ce3f56b2334d6a1e2871edad9d3:800?w=400",
+    "category": "Sports",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&pcampaignid=web_share",
+    "description": "FIFA Mobile brings the authentic football experience to mobile devices with realistic gameplay, official licenses for teams, leagues, and players, and multiple game modes. The core gameplay is optimized for touchscreens with simple controls for passing, shooting, and skill moves. Modes include Attack Mode (short matches focusing on offensive play), League Tour, Events, and Head-to-Head matches. The game features a deep team building system where players collect and upgrade cards representing real footballers, building their ultimate squad. Regular live events reflect real-world football seasons, tournaments, and special occasions. Social features include leagues where players can cooperate to achieve common goals and compete against other leagues.",
+    "ratings": "4.1",
+    "developer": "EA Sports"
+  },
+  {
+    "id": "20",
+    "title": "Monument Valley",
+    "coverPhoto": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1927740/capsule_616x353.jpg?t=1744730353?w=400",
+    "category": "Puzzle",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.ustwo.monumentvalley&pcampaignid=web_share",
+    "description": "Monument Valley is an indie puzzle game known for its beautiful, minimalist art style inspired by MC Escher's impossible architecture and Japanese prints. Players guide the silent princess Ida through mysterious monuments, manipulating the environment to reveal paths and solve optical illusion-based puzzles. The game is celebrated for its calming atmosphere, elegant design, and emotional storytelling without words. Each level is a work of art with carefully crafted visuals and soothing music. The sequel, Monument Valley 2, continues the tradition with new characters and mechanics while maintaining the core gameplay. The game has won numerous awards for its artistic achievement and has been praised for demonstrating the potential of mobile games as an art form beyond traditional gaming experiences.",
+    "ratings": "4.5",
+    "developer": "ustwo games"
+  },
+  {
+    "id": "21",
+    "title": "Alto's Odyssey",
+    "coverPhoto": "https://upload.wikimedia.org/wikipedia/en/4/4c/Alto%27s_Odyssey_cover.png?w=400",
+    "category": "Endless Runner",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.noodlecake.altosodyssey&pcampaignid=web_share",
+    "description": "Alto's Odyssey is an endless runner/sandboarding game set in a beautiful, atmospheric desert landscape. Players control Alto and friends as they sandboard down dunes, grind vines, and soar through hot air balloons. The game features a dynamic weather system, day-night cycle, and three distinct biomes with their own visual style and mechanics. The one-touch controls are simple yet allow for complex trick chains and graceful movement. Unlike many mobile games, Alto's Odyssey focuses on a zen-like, meditative experience rather than high-score chasing, though it includes goals and challenges for progression. The minimalist art style, atmospheric soundtrack, and fluid physics create a captivating experience that stands out in the mobile gaming landscape.",
+    "ratings": "4.4",
+    "developer": "Snowman"
+  },
+  {
+    "id": "22",
+    "title": "Stardew Valley",
+    "coverPhoto": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/capsule_616x353.jpg?t=1754692865?w=400",
+    "category": "Simulation",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.chucklefish.stardewvalley&pcampaignid=web_share",
+    "description": "Stardew Valley is a farming simulation RPG where players inherit their grandfather's overgrown farm and must restore it to prosperity. The game expands beyond farming to include fishing, mining, crafting, cooking, and relationship building with the townspeople. With no time pressure or specific goals, players can progress at their own pace and focus on what interests them most. The mobile version includes touch-optimized controls and all the content from the PC version, including multiplayer in later updates. The charming pixel art style, relaxing gameplay, and surprising depth have made it a critical and commercial success. Regular free updates have added significant content including new areas, characters, events, and gameplay mechanics, greatly extending the game's longevity.",
+    "ratings": "4.8",
+    "developer": "ConcernedApe"
+  },
+  {
+    "id": "23",
+    "title": "Dead Cells",
+    "coverPhoto": "https://cdn1.epicgames.com/offer/1368a7f14c3344bbaededbae528fafed/EGS_DeadCellsReturntoCastlevania_MotionTwin_DLC_S1_2560x1440-bba8c9d98597852e8b931eca9d8532f4?w=400",
+    "category": "Action",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.playdigious.deadcells.mobile&pcampaignid=web_share",
+    "description": "Dead Cells is a rogue-lite, metroidvania-inspired action platformer where players explore a sprawling, ever-changing castle with fluid combat and challenging enemies. The game features permadeath but permanent progression through the acquisition of new weapons, abilities, and upgrades that carry over between runs. The combat is fast-paced and responsive with a wide variety of weapons and skills that encourage different playstyles. The mobile version is a direct port of the PC/console game with optimized touch controls and controller support. Regular free updates and paid DLC have expanded the game with new biomes, enemies, weapons, and gameplay mechanics. The pixel art is detailed and animated with a distinct visual style that complements the intense, satisfying combat and exploration.",
+    "ratings": "4.9",
+    "developer": "Motion Twin"
+  },
+  {
+    "id": "24",
+    "title": "The Room series",
+    "coverPhoto": "https://i0.wp.com/www.preining.info/blog/wp-content/uploads/2016/05/room3.jpg?fit=1920%2C1080&ssl=1?w=400",
+    "category": "Puzzle",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.FireproofStudios.TheRoom&pcampaignid=web_share",
+    "description": "The Room series is a collection of atmospheric puzzle games centered around mysterious boxes and contraptions with intricate mechanisms. Players examine these devices from all angles, discovering hidden compartments, solving tactile puzzles, and unraveling an enigmatic storyline. The games are praised for their stunning 3D graphics, satisfying puzzle design, and haunting atmosphere. Each installment introduces new mechanics while maintaining the core gameplay of exploration and deduction. The touch controls feel natural for manipulating the complex objects, with haptic feedback enhancing the immersion. The series has won numerous awards for its quality and demonstrates how mobile games can offer deep, premium experiences rather than free-to-play mechanics. The gradual unraveling of mysteries and the satisfying 'click' of solutions make it particularly engaging for puzzle enthusiasts.",
+    "ratings": "4.8",
+    "developer": "Fireproof Games"
+  },
+  {
+    "id": "25",
+    "title": "Ark: Survival Evolved",
+    "coverPhoto": "https://cdn1.epicgames.com/ark/offer/EGS_ARKSurvivalEvolved_StudioWildcard_S1-2560x1440-c316afb7c33a9dfb892eef6b99169e43.jpg?resize=1&w=480&h=270&quality=medium?w=400",
+    "category": "Survival",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.studiowildcard.arkuse&pcampaignid=web_share",
+    "description": "Ark: Survival Evolved is a survival game set in a world populated by dinosaurs and other prehistoric creatures. Players must hunt, harvest, craft tools, grow crops, research technologies, and build shelters to survive. The unique feature is the ability to tame dinosaurs and other creatures to use as mounts, guards, or resource gatherers. The game includes both single-player and multiplayer modes, with PvP and PvPvE servers offering different experiences. The mobile version brings the core Ark experience to mobile devices with optimized controls and graphics. Regular updates have added new creatures, items, and story elements. The progression from vulnerable survivor to powerful tribe leader with an army of tamed creatures provides a satisfying sense of advancement and accomplishment.",
+    "ratings": "4.2",
+    "developer": "Studio Wildcard"
+  },
+  {
+    "id": "26",
+    "title": "Grid Autosport",
+    "coverPhoto": "https://www.gtplanet.net/wp-content/uploads/2019/02/GRiD-Autosport-Nintendo-Switch.jpg?w=400",
+    "category": "Racing",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.feralinteractive.gridautosport_edition_android&pcampaignid=web_share",
+    "description": "Grid Autosport is a premium racing game that brings console-quality simulation racing to mobile devices. Unlike many mobile racing games, it focuses on realistic handling, authentic racing disciplines, and serious racing simulation. The game features multiple racing styles including Touring, Endurance, Open Wheel, Tuner, and Demolition Derby across real-world locations. The mobile version includes customizable difficulty, multiple control schemes including controller support, and all the content from the console version. The graphics are among the best on mobile with detailed car models, dynamic lighting, and realistic environments. The career mode offers progression through different racing disciplines, earning reputation and unlocking new events. For racing enthusiasts looking for a serious experience on mobile, Grid Autosport stands out from the more arcade-focused competition.",
+    "ratings": "4.6",
+    "developer": "Codemasters"
+  },
+  {
+    "id": "27",
+    "title": "Old School RuneScape",
+    "coverPhoto": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1343370/capsule_616x353.jpg?t=1702553709?w=400",
+    "category": "MMORPG",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.jagex.oldscape.android&pcampaignid=web_share",
+    "description": "Old School RuneScape brings the classic MMORPG experience to mobile devices, faithfully recreating the 2007 version of RuneScape with some quality-of-life improvements. The game features a massive open world with 23 skills to train, hundreds of quests, and thousands of items to collect. Players can choose their own path, whether focusing on combat, skilling, questing, or player-vs-player activities. The mobile version offers cross-play with the desktop version, allowing players to continue their adventure seamlessly across platforms. Regular content updates approved by the community through polls ensure the game evolves while maintaining its old-school charm. The simple point-and-click combat and interface work surprisingly well on touchscreens. With no subscription required for the free version and thousands of hours of content, it offers incredible value for RPG fans.",
+    "ratings": "4.3",
+    "developer": "Jagex"
+  },
+  {
+    "id": "28",
+    "title": "Bloons TD 6",
+    "coverPhoto": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/960090/ss_d82f8f2022db8c36bb28393434d6e65dea2d9c64.1920x1080.jpg?t=1761094738?w=400",
+    "category": "Strategy",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.ninjakiwi.bloonstd6&pcampaignid=web_share",
+    "description": "Bloons TD 6 is the latest installment in the popular tower defense series featuring balloon-popping monkeys with special abilities. The game includes 3D graphics with upgraded visuals, new monkey towers, heroes with unique abilities, and various tracks with different environments. Players strategically place monkeys with different attack types to pop increasingly challenging waves of bloons. The game features extensive upgrade paths for each tower type, allowing for different strategies and combinations. Modes include easy, medium, hard, and impoppable difficulties, plus special challenges, co-op play, and a map editor. Regular updates introduce new maps, monkeys, game modes, and balance changes. The charming art style, satisfying popping mechanics, and deep strategic possibilities have made it one of the most beloved tower defense games on any platform.",
+    "ratings": "4.8",
+    "developer": "Ninja Kiwi"
+  },
+  {
+    "id": "29",
+    "title": "Plague Inc.",
+    "coverPhoto": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000015517/d2f7dd044608a7a4f565eb2c9245b1c9fc66638c4c85739b12a63307130cfed2?w=400",
+    "category": "Strategy",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.miniclip.plagueinc&pcampaignid=web_share",
+    "description": "Plague Inc. is a unique strategy simulation where players create and evolve a pathogen to annihilate the human population while humanity develops defenses and cures. The game combines strategic planning with realistic epidemiology models, requiring players to balance infection, severity, and lethality while adapting to countermeasures. Various pathogen types offer different gameplay experiences, from bacteria and viruses to more exotic options like nano-viruses and zombie plagues. The game includes scenarios based on real-world events and a 'Cure Mode' where players reverse roles to stop a pandemic. Despite its dark theme, the game is educational about disease transmission and has even been used by disease organizations to promote understanding of epidemiology. The satisfying progression of watching your plague spread across the globe makes for compelling, if morbid, gameplay.",
+    "ratings": "4.6",
+    "developer": "Ndemic Creations"
+  },
+  {
+    "id": "30",
+    "title": "Golf Clash",
+    "coverPhoto": "https://cdn.prod.website-files.com/67334a66848d90a25f82bdce/67bf3bfb2f6a89da40b55579_Golfclash.jpeg?w=400",
+    "category": "Sports",
+    "downloadLink": "https://play.google.com/store/apps/details?id=com.playdemic.golf.android&pcampaignid=web_share",
+    "description": "Golf Clash is a real-time multiplayer golf game where players compete in 1v1 matches on beautifully rendered courses. The intuitive control system uses a simple pull-back and release mechanic with timing and positioning determining shot accuracy. The game features different clubs with varying stats, special balls with unique properties, and multiple tours with increasing difficulty and rewards. Social features include clans where players can collaborate, share cards, and compete in clan tournaments. Regular tournaments with special rules and prizes offer competitive play beyond the standard matches. The game strikes a balance between accessibility and depth, with wind, ball spin, and terrain factors adding strategic considerations. The quick match format (each hole takes just a few minutes) makes it perfect for mobile play sessions of any length.",
+    "ratings": "4.5",
+    "developer": "Playdemic"
+  }
+]
