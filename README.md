@@ -149,8 +149,17 @@ npm run dev
 - Slider Banner on Homepage
 
 # 🖼️ Screenshots
-## 🏠 Homepage
+### 🏠 Homepage
 
-## 🎮 Game Details
+### 🎮 Game Details
 
-## 🔐 Login Page
+### 🔐 Login Page
+
+## 📧 Contact
+👤 Author: Zahidul Islam Mahim
+
+📍 Location: Noakhali, Bangladesh
+
+📩 Email: zahidul.ismail@example.com
+
+🌐 Live Site: Community Portal
