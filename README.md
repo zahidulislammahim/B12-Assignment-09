@@ -13,12 +13,12 @@ It is fully responsive, animated, and built as a single-page application (SPA).
 ---
 
 ## 🌐 Live Website
-🌐 **Live Site:** [GameHub Link](https://b12-assignment-09.netlify.app/)
+🌐 **Live Site:** [GameHub Link](https://zahidul-gamehub.netlify.app/)
 
 ---
 
 ## 🔗 GitHub Repository
-🌐 **Client Code:** [GameHub Repo](https://github.com/zahidulislammahim/B12-Assignment-09)
+🌐 **Client Code:** [GameHub Repo](https://github.com/mdzahidulislam-dev/GameHub)
 
 ---
 
