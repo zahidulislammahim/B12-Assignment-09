@@ -26,7 +26,11 @@ export const router = createBrowserRouter([
       },
       {
         path: "/games",
+<<<<<<< HEAD
         element: <PrivateRoute><Games></Games></PrivateRoute>,
+=======
+        element: <Games></Games>,
+>>>>>>> 1c5ec9d (Update ui)
       },
       {
         path: "/contact",
@@ -55,7 +59,11 @@ export const router = createBrowserRouter([
       },
       {
         path: "/game-details",
+<<<<<<< HEAD
         element: <PrivateRoute><GameDetails></GameDetails></PrivateRoute>
+=======
+        element: <GameDetails></GameDetails>
+>>>>>>> 1c5ec9d (Update ui)
       },
     ],
   },

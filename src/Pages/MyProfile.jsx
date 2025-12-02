@@ -15,7 +15,7 @@ const MyProfile = () => {
       />
       <title>My Profile</title>
       {!loading ? (
-        <div className="bg-background-dark font-display  flex flex-col pt-5 pb-30">
+        <div className="bg-background-dark font-display  flex flex-col pt-5 pb-25">
           <main className="flex flex-col items-center px-4 sm:px-10 lg:px-20 xl:px-40 py-5">
             <div className="flex flex-col items-center gap-4">
               <div>

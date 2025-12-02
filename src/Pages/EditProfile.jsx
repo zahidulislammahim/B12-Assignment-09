@@ -39,7 +39,7 @@ const EditProfile = () => {
       />
       <title>Edit Profile</title>
       {!loading ? (
-        <div className="relative  pb-10  flex h-auto w-full flex-col overflow-x-hidden bg-background-light dark:bg-background-dark font-display">
+        <div className="relative  pb-5  flex h-auto w-full flex-col overflow-x-hidden bg-background-light dark:bg-background-dark font-display">
           <main className="flex flex-1 justify-center py-10 px-5 sm:px-10 md:px-20 lg:px-40">
             <div className="flex flex-col max-w-[960px] flex-1">
               <div className="flex flex-wrap justify-between gap-3 p-4">
