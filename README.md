@@ -160,6 +160,6 @@ npm run dev
 
 📍 Location: Dhaka, Bangladesh
 
-📩 Email: mahimkhan20626@gmail.com
+📩 Email: mdzahidulislam.dev@gmail.com
 
 🌐 Live Site: Community Portal
